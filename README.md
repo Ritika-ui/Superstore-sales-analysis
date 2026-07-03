@@ -70,20 +70,24 @@ and provides specific recommendations to improve it.
 ## 📊 Dashboard
 
 ### Page 1 — Executive Summary
-![Executive Summary]<img width="1091" height="623" alt="image" src="https://github.com/user-attachments/assets/810df71b-4537-41bb-8e4f-a0e2fe6b8558" />
+<img width="1091" height="623" alt="image" src="https://github.com/user-attachments/assets/810df71b-4537-41bb-8e4f-a0e2fe6b8558" />
 
 
 ### Page 2 — Detailed Analysis
-![Executive Summary](Screenshots/Detailed-Analysis.png)
+<img width="1090" height="612" alt="image" src="https://github.com/user-attachments/assets/7a746241-b329-4085-849c-d5e4dd1468bd" />
+
 
 ### Page 3 — Sales Trend
-![Executive Summary](Screenshots/Sales-trend.png)
+<img width="1268" height="752" alt="image" src="https://github.com/user-attachments/assets/4e5a2a46-8b7b-47e0-9afc-a11f038a52b8" />
+
 
 ### Page 4 — Discount Analysis
-![Executive Summary](Screenshots/Discount-Analysis.png)
+<img width="1286" height="767" alt="image" src="https://github.com/user-attachments/assets/3a7c16d5-992b-488d-a0d6-7d869e82ef6a" />
+
 
 ### Page 5 — Product Analysis
-![Executive Summary](Screenshots/Product-Analysis.png)
+<img width="857" height="202" alt="image" src="https://github.com/user-attachments/assets/c94a559b-95e6-461e-9fdc-84031c0a5312" />
+
 
 ---
 
@@ -100,3 +104,38 @@ and provides specific recommendations to improve it.
 ---
 
 ## 📁 Project Structure
+superstore-sales-analysis/
+├── screenshots/      # Dashboard screenshots
+├── data/             # Raw dataset
+├── scripts/          # SQL + Python analysis files
+├── dashboard/        # Power BI .pbix file
+└── README.md
+
+## 🔧 How to Run
+
+```bash
+# Install dependencies
+pip install pandas matplotlib openpyxl
+
+# Run analysis
+python scripts/day2.py
+python scripts/day3.py
+
+# Open dashboard
+# Open dashboard/superstore-sales-analysis.pbix in Power BI Desktop
+```
+
+---
+
+## 📈 Dataset
+
+- **Source:** Kaggle — Superstore Sales Dataset
+- **Rows:** 9,994 transactions
+- **Period:** 2014 — 2017
+- **Fields:** Orders, customers, products, sales, profit, discount
+
+---
+
+## 👩‍💻 Author
+
+**Ritika Khadka**
