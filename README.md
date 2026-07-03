@@ -107,8 +107,8 @@ and provides specific recommendations to improve it.
 superstore-sales-analysis/
 ├── screenshots/ # Dashboard screenshots
 ├── data/        # Raw dataset
-├── scripts/
-├── dashboard/
+├── scripts/     # SQL + Python analysis files
+├── dashboard/   # Power BI .pbix file
 └── README.md
 
 ## 🔧 How to Run
