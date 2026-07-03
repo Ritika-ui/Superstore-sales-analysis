@@ -70,7 +70,8 @@ and provides specific recommendations to improve it.
 ## 📊 Dashboard
 
 ### Page 1 — Executive Summary
-![Executive Summary](Screenshots/executive-summary.png)
+![Executive Summary]<img width="1091" height="623" alt="image" src="https://github.com/user-attachments/assets/810df71b-4537-41bb-8e4f-a0e2fe6b8558" />
+
 
 ### Page 2 — Detailed Analysis
 ![Executive Summary](Screenshots/Detailed-Analysis.png)
