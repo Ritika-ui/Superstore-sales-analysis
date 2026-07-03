@@ -105,10 +105,10 @@ and provides specific recommendations to improve it.
 
 ## 📁 Project Structure
 superstore-sales-analysis/
-├── screenshots/      # Dashboard screenshots
-├── data/             # Raw dataset
-├── scripts/          # SQL + Python analysis files
-├── dashboard/        # Power BI .pbix file
+├── screenshots/ # Dashboard screenshots
+├── data/        # Raw dataset
+├── scripts/
+├── dashboard/
 └── README.md
 
 ## 🔧 How to Run
