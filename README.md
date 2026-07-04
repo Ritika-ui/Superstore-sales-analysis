@@ -88,7 +88,7 @@ and provides specific recommendations to improve it.
 ### Page 5 — Product Analysis
 <img width="857" height="202" alt="image" src="https://github.com/user-attachments/assets/c94a559b-95e6-461e-9fdc-84031c0a5312" />
 
-### Page 6 — Drill Through
+### Page 6 —  Drill Through
 <img width="475" height="357" alt="image" src="https://github.com/user-attachments/assets/e0efe9e7-3984-4688-9dc0-c1da7362863a" />
 
 
