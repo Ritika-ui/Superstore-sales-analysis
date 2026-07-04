@@ -110,7 +110,7 @@ superstore-sales-analysis/
 ├── data/        # Raw dataset
 ├── scripts/     # SQL + Python analysis files
 ├── dashboard/   # Power BI .pbix file
-└── README.md
+└── README.md 
 
 ## 🔧 How to Run
 
