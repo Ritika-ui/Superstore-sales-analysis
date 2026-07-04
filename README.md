@@ -1,5 +1,5 @@
 # Superstore-sales-analysis
-End-to-end data analysis project using SQL, Python, and Power BI.
+-End-to-end data analysis project using SQL, Python, and Power BI.
 
 # 🛒 Superstore Sales Analysis
 
