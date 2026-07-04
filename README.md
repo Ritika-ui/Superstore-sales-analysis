@@ -10,7 +10,7 @@ Built with SQL, Python, and Power BI.
 ---
 
 ## 📌 Business Problem
-
+ 
 A retail superstore has $2.30M in sales but only 12.47% 
 profit margin. This analysis identifies WHY profit is low 
 and provides specific recommendations to improve it.
